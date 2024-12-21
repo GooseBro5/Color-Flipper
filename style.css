@@ -1,0 +1,28 @@
+button{
+    border-radius: 20px;
+    height: 80px;
+    width: 200px;
+    border-color: black;
+    font-size: 30px;
+    font-weight: bold;
+    margin: 5px;
+
+}
+
+
+
+#Green{
+    background-color: green;
+}
+
+#Red{
+    background-color: red;
+}
+
+#Blue{
+    background-color: blue;
+}
+
+#Random{
+    background-color: white;
+}
